@@ -11,6 +11,8 @@ To use goDom, simply pipe a URL to the tool, for example:
 echo https://example.com/main.js | goDom
 ```
 
+or pipe a list of urls:
+
 ```bash
 cat urls.txt | goDom
 ```
