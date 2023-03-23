@@ -20,7 +20,7 @@ To install goDom, simply clone this repository and build the tool using the go b
 
 ```bash
 git clone https://github.com/ninposec/goDom.git
-cd webscope
+cd goDom
 go build
 ```
 
