@@ -28,7 +28,7 @@ cd goDom
 go build
 ```
 
-This will create an executable file called webscope in the current directory. You can then move this file to a directory in your system's $PATH environment variable to use it globally.
+This will create an executable file called goDom in the current directory. You can then move this file to a directory in your system's $PATH environment variable to use it globally.
 
 Alternatively, you can install the tool using the go get command:
 
