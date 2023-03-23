@@ -29,7 +29,7 @@ This will create an executable file called webscope in the current directory. Yo
 Alternatively, you can install the tool using the go get command:
 
 ```bash
-go install github.com/ninposec/goDom
+go install github.com/ninposec/goDom@latest
 ```
 
 This will download and install the tool in your system's $GOPATH/bin directory.
