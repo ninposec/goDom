@@ -1,6 +1,6 @@
-# goDom - draft version
+# goDom - beta draft version
 
-goDom is a tool that extracts fully-qualified domain names from the HTTP response body of a given URL. It uses regular expressions to match URLs that start with http:// or https://, and extracts the domain names from them.
+goDom is a simple tool that extracts fully-qualified domain names from the HTTP response body of a given URL. It uses regular expressions to match URLs that start with http:// or https://, and extracts the domain names from them.
 
 ### Usage
 To use goDom, simply pipe a URL to the tool, for example:
